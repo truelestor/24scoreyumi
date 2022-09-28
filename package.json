@@ -1,0 +1,18 @@
+{
+  "name": "24scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "fs360.co ◄ Get Your FREE Credit Score fs360.co, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "fs360.co",
+    "mortgages for low credit score",
+    "best credit card 700 credit score",
+    "credit score over 800",
+    "credit score vs social credit"
+  ],
+  "repository": "https://github.com/truelestor/24scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
